@@ -1,0 +1,11 @@
+name = "roll-doradogame-ca"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=roll-doradogame.ca"
+HMAC_KEY = "5b92bd60bb2a5317bf71c1759044314c57e526ede3bfeeed19d0052336b84ad2"
+COOKIE_NAME = "k8n"
+PLAY_PATH = "try-now"
+BUTTON_ID = "pb2e25d638150b9be0bdc5e5372829564"
+GATE_SALT = "e06b326d14b91f6e"
